@@ -1,0 +1,8 @@
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\bin\Debug\TpPattern.exe.config
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\bin\Debug\TpPattern.exe
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\bin\Debug\TpPattern.pdb
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\obj\Debug\TpPattern.csproj.AssemblyReference.cache
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\obj\Debug\TpPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\obj\Debug\TpPattern.csproj.CoreCompileInputs.cache
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\obj\Debug\TpPattern.exe
+C:\Users\driss.chennaoui\source\repos\TpPattern\TpPattern\obj\Debug\TpPattern.pdb
